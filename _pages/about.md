@@ -42,6 +42,13 @@ Research Interests
 - Hallucination in Vision-Language Models (VLM)
 - LLM Truthfulness and Interpretability
 
+Skills
+======
+- **Programming Languages:** Python, C++, Java
+- **Machine Learning Frameworks:** PyTorch, TensorFlow
+- **Tools &amp; Platforms:** Git, Docker, Linux, Slurm
+- **Languages:** Mandarin (Native), English (Fluent)
+
 Awards
 ======
 - Zhiyuan Honor Scholarship, Shanghai Jiao Tong University
